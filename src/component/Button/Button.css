@@ -16,3 +16,16 @@
   .btnNext:active {
     background-color: #003f7f;
   }
+  .control-button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #008cba;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .control-button:hover {
+    background-color: #005f5f;
+  }
+  
